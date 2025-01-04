@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **WANG XIAN** @KafuuChikai
+- 👋 Hi, I’m **WANG XIAN** @KafuuChikai <a href="https://hits.sh/github.com/KafuuChikai/hits/"><img alt="Hits" src="https://hits.sh/github.com/KafuuChikai/hits.svg?label=visitors&extraCount=50&labelColor=007ec6"/></a>
 - 👀 I’m interested in robotics & machine learning
 - 💞️ I am a Ph.D. student at Zhejiang University
 - 📫 How to reach me: xianwang@zju.edu.cn
