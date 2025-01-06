@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KafuuChikai&theme=tokyo-night" alt="KafuuChikai's github activity graph" width="99%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KafuuChikai&theme=tokyo-night&hide_border=true" alt="KafuuChikai's github activity graph" width="99%">
   </a>
 </div>
 
