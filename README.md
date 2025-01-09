@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KafuuChikai&show_icons=true&hide_border=true&theme=radical" alt="KafuuChikai's stats" width="52%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KafuuChikai&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="KafuuChikai's lang" width="46.7%">
+  <img src="https://github-readme-stats.vercel.app/api?username=KafuuChikai&show_icons=true&hide_border=true&theme=radical" alt="KafuuChikai's stats" width="56%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KafuuChikai&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="KafuuChikai's lang" width="42.7%">
 </div>
 
 <!-- **KafuuChikai/KafuuChikai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
